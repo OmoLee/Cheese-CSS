@@ -1,0 +1,25 @@
+*{
+  /*border: 1px solid #ccc;*/
+}
+header{
+  height: 350px;
+  background-color: 150px #ccc;
+}
+.fix-width{
+  max-width: 100%
+}
+#avatar{
+  border-radius: 50%;
+  border: 1px solid #ccc;
+  padding: 5px;
+  background-color: white;
+  margin-top: -78px;
+  width: 150px;
+  height: 150px;
+}
+#about{
+  text-align: center;
+}
+hr{
+  border: 1px solid #ccc
+}
